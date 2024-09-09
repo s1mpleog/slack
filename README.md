@@ -1,5 +1,3 @@
-Here’s an updated version of the README that incorporates Convex as the backend:
-
 ---
 
 # 🚀 Real-Time Communication App (Slack Clone)
