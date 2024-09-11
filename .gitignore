@@ -33,8 +33,6 @@ yarn-error.log*
 .vercel
 
 bun.lockb
-/convex
-convex
 
 # typescript
 *.tsbuildinfo
